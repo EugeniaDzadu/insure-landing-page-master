@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav-section{
+    border: 1px solid black;
+    background-color: #fff;
+}
+
+header{
+    background-color: rgb(73, 23, 159);
+    color: #fff;
+    height: 60vh;
+}
+
+#mid-div{
+    background-color: rgb(73, 23, 159);
+    color: #fff;
+    width: 85%;
+    margin-left: 11.5%;
+    height: 20vh;
+}
